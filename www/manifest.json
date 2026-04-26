@@ -1,0 +1,12 @@
+{
+  "name": "Islam & Political Tyranny — الإسلام والاستبداد السياسي",
+  "short_name": "الإسلام والاستبداد",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ECEFF1",
+  "theme_color": "#37474F",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
